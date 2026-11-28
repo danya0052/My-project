@@ -1,4 +1,4 @@
-def power (base, exponent):
+def power(base, exponent):
     return base ** exponent
 
 def square_root(x):
